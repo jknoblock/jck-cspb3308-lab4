@@ -1,2 +1,3 @@
 # jck-cspb3308-lab4
-CSPB 3308 Lab 4
+Jessica Knoblock
+Lab 4: Version Control
