@@ -1,0 +1,8 @@
+Classic grocery list example
+
+Apples
+Bananas
+Coffee
+Beans
+Chocolate
+Kale
